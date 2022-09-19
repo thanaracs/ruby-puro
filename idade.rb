@@ -31,8 +31,5 @@ loop do
         break
     else
         result = 'Opcão inválida'
-        
     end
-    
-    
 end

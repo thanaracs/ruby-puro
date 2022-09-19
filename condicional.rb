@@ -30,7 +30,7 @@ senha = gets.chomp.to_i
 
 case senha
 when 1..3
-    puts "Lanche pronto!"
+    then puts "Lanche pronto!"
 when 4..6
     puts "Aguarde mais um pouco!"
 when 7..9
