@@ -7,6 +7,7 @@
 require_relative 'animal'
 require_relative 'cachorro' #reconhece o pai "animal" por ser chamado posterior, caso contrário dá erro
 
+
 puts '--Animal--'
 animal = Animal.new
 animal.pular
